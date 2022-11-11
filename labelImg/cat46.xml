@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cats</folder>
+	<filename>cat46.jpeg</filename>
+	<path>E:\labelimgs\Cats\cat46.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>32</ymin>
+			<xmax>211</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>
